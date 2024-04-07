@@ -16,3 +16,5 @@
 ### ->Run the cv_info_extractor.py script.
 ### ->The script will generate an Excel file named CV_Info.xlsx containing the extracted information.
 
+### You can also check out this by directly accessed over there:  https://colab.research.google.com/drive/1CTsKThRR8bfcUxjYs-luzA2C7a2GL1mC?usp=sharing
+In this code i have already installed the CV_Info.xlsx file.
